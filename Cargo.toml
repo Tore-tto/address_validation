@@ -1,0 +1,9 @@
+[package]
+name = "address_validation"
+version = "0.1.0"
+edition = "2024"
+
+
+[dependencies]
+beldex = { path = "vendors/beldex-rs" }
+anyhow = "1.0.102"

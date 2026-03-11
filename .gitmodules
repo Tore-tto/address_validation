@@ -1,0 +1,3 @@
+[submodule "vendors/beldex-rs"]
+	path = vendors/beldex-rs
+	url = https://github.com/Tore-tto/beldex-rs.git
